@@ -12,7 +12,7 @@ function App() {
        
     // </div>
     <div>
-    <Greeting />
+   { /*<Greeting />*/}
     <BatchName /></div>
    
   );

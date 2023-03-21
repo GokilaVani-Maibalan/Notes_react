@@ -10,11 +10,11 @@ import React from "react";
 
 // export default Name;
 
-function Greeting() {
+// function Greeting() {
 
-    return(
-        React.createElement('div', {className: "name"}, React.createElement('h2', null, 'Hello Guvi'))
-    )
-}
+//     return(
+//         React.createElement('div', {className: "name"}, React.createElement('h2', null, 'Hello Guvi'))
+//     )
+// }
 
-export default Greeting
+// export default Greeting
